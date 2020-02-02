@@ -13,6 +13,8 @@ To have a better understanding of Functional Components and React Hooks I refact
 Fetch calls are made using the http://themoviedb.com/ api. Check out https://www.themoviedb.org/documentation/api for more information
 
 If you'd like to compare files, Functionl Components implementing Hooks live in the functionalComponents directory and Class Components live in the classComponents directory.
+
+Live site @ https://hopeful-curie-cf8fc3.netlify.com/
 ## Available Scripts
 
 In the project directory, you can run:
